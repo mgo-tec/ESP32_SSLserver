@@ -1,0 +1,11 @@
+ESP32_SSLserver	KEYWORD1
+Esp32SSLServer	KEYWORD1
+
+beginSPIFFS	KEYWORD2
+available	KEYWORD2
+readStrClient	KEYWORD2
+writeStrClient	KEYWORD2
+stopClient	KEYWORD2
+readPkiFileSPIFFS	KEYWORD2
+stop	KEYWORD2
+end	KEYWORD2
